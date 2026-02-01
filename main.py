@@ -16,7 +16,7 @@ load_dotenv()
 Before submitting the assignment, describe here in a few sentences what you would have built next if you spent 2 more hours on this project:
 
 IMMEDIATE IMPROVEMENTS (2 hours):
-1. Expand genre coverage - CurAdd 5+ specialized writers (adventure, science, friendship, mythology, historical) with 
+1. Expand genre coverage - Currently supports only 3 genres, Animals, princesses and Christmas. Add 5+ specialized writers (adventure, science, friendship, mythology, historical) with 
    curated few-shot examples for each
 2. Evaluation dashboard - Persist stories with rubric scores to PostgreSQL, analyze patterns to identify weak dimensions
    and continuously improve prompts
